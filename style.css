@@ -3,5 +3,6 @@ body {
     border: 1pt green dotted;
 }
 header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: lightblue;
 }
